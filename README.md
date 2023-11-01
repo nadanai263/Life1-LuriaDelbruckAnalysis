@@ -1,5 +1,9 @@
 # Life1-LuriaDelbruckAnalysis
-Scripts for analysis of yeast fluctuation experiments. Part of the first year Life 1 course at the School of Biological Sciences, University of Edinburgh. Feedback and corrections to [Nadanai Laohakunakorn](nadanai.laohakunakorn@ed.ac.uk).
+Scripts for analysis of yeast fluctuation experiments. 
+
+<img src="/plots/class_histLDWhites.png" width="480" alt="LD distribution" align="center" hspace="40" vspace="15">
+
+Part of the first year Life 1 course at the School of Biological Sciences, University of Edinburgh. Feedback and corrections to Nadanai Laohakunakorn ([nadanai.laohakunakorn@ed.ac.uk](mailto:nadanai.laohakunakorn@ed.ac.uk)).
 
 ### Instructions
 There are many ways to run this. The easiest is to copy the Jupyter notebook (`LDAnalysis.ipynb`) to [Google Colab](https://colab.research.google.com/), along with the `data` folder. Make sure you have the file `sampledata.xlsx` present inside the `data` folder. 
